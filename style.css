@@ -1,0 +1,14 @@
+h1{
+
+     background-color: black ;
+     color: green ;     
+}
+
+.hey{
+    background-color: red;
+    border: 6px solid yellow;
+}
+#hi{
+    background-color: brown;
+    border: 8px solid black;
+}
